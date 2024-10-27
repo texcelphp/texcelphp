@@ -1,4 +1,6 @@
 {
+    "name": "texcel/texcel",
+    "description": "...",
     "require": {
         "php": ">=8.4"
     }
